@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ca02a37e-e372-46ec-9f75-566763ab71e6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Happy-Circles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Happy-Circles/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Atractor/Atractor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Atractor/Atractor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/balls.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/balls.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Atractor/Atractor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Atractor/Atractor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Attractable/Attractable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Attractable/Attractable.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +36,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="rider.run.widget.enabled.cache" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -66,6 +76,10 @@
       <workItem from="1644245201906" duration="123000" />
       <workItem from="1644245535822" duration="19000" />
       <workItem from="1644245594775" duration="73000" />
+      <workItem from="1644246202364" duration="16000" />
+      <workItem from="1644246453904" duration="3000" />
+      <workItem from="1644246952579" duration="730000" />
+      <workItem from="1644254322138" duration="2880000" />
     </task>
     <servers />
   </component>
